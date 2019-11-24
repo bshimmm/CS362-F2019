@@ -1,0 +1,55 @@
+Unit Test Results:
+
+File 'unittest1.c'
+Lines executed:96.77% of 31
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+Calls executed:92.86% of 14
+Creating 'unittest1.c.gcov'
+
+File 'unittest2.c'
+Lines executed:96.77% of 31
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+Calls executed:92.31% of 13
+Creating 'unittest2.c.gcov'
+
+File 'unittest4.c'
+Lines executed:97.67% of 43
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+Calls executed:94.74% of 19
+Creating 'unittest4.c.gcov'
+
+File 'unittest5.c'
+Lines executed:91.18% of 34
+Branches executed:100.00% of 18
+Taken at least once:88.89% of 18
+Calls executed:85.71% of 14
+Creating 'unittest5.c.gcov'
+
+------------------------------------------------
+
+Random Testing Results:
+
+File 'randomtestcard1.c'
+Lines executed:97.67% of 43
+Branches executed:100.00% of 14
+Taken at least once:92.86% of 14
+Calls executed:94.12% of 17
+Creating 'randomtestcard1.c.gcov'
+
+File 'randomtestcard2.c'
+Lines executed:95.83% of 48
+Branches executed:100.00% of 28
+Taken at least once:92.86% of 28
+Calls executed:87.50% of 16
+Creating 'randomtestcard2.c.gcov'
+
+File 'randomtestcard3.c'
+Lines executed:98.31% of 59
+Branches executed:100.00% of 34
+Taken at least once:94.12% of 34
+Calls executed:95.24% of 21
+Creating 'randomtestcard3.c.gcov'
+
