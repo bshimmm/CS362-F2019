@@ -14,6 +14,13 @@ Taken at least once:75.00% of 4
 Calls executed:92.31% of 13
 Creating 'unittest2.c.gcov'
 
+File 'unittest3.c'
+Lines executed:100.00% of 53
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 20
+Creating 'unittest3.c.gcov'
+
 File 'unittest4.c'
 Lines executed:97.67% of 43
 Branches executed:100.00% of 4
